@@ -135,7 +135,7 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 ## 🏆 Trofi
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joell014_ANDA&theme=radical&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Joell014&theme=radical&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
 </div>
 
 <!-- ===================== LAYANAN ===================== -->
