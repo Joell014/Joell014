@@ -1,4 +1,4 @@
-name: generate animation
+name: Update Profile Animations
 
 on:
   schedule:
@@ -9,14 +9,13 @@ on:
       - main
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +23,18 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect All SVG Files
+        run: |
+          mkdir -p dist
+          cp profile-3d-contrib/*.svg dist/
+
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
