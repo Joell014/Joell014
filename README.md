@@ -26,7 +26,7 @@
 <img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding.gif" alt="coding" />
 
 ```js
-const juliansah = {
+const Pengguna = {
   nama: "Juliansah Khoirul Umam",
   lokasi: "Tuban, Jawa Timur",
   keahlian: ["Microsoft Excel", "Microsoft Word", "Olah Data"],
@@ -64,8 +64,8 @@ const juliansah = {
 
 | Skill              | Level                                                                 |
 | :----------------- | :-------------------------------------------------------------------- |
-| 📊 Microsoft Excel | ![](https://progress-bar.xyz/90?title=Mahir&width=300&color=217346)   |
-| 📝 Microsoft Word  | ![](https://progress-bar.xyz/90?title=Mahir&width=300&color=2b579a)   |
+| 📊 Microsoft Excel | ![](https://progress-bar.xyz/70?title=Mahir&width=300&color=217346)   |
+| 📝 Microsoft Word  | ![](https://progress-bar.xyz/70?title=Mahir&width=300&color=2b579a)   |
 | 🐍 Python          | ![](https://progress-bar.xyz/30?title=Belajar&width=300&color=3776ab) |
 | 🌐 HTML & CSS      | ![](https://progress-bar.xyz/35?title=Belajar&width=300&color=e34f26) |
 | ⚡ JavaScript      | ![](https://progress-bar.xyz/25?title=Belajar&width=300&color=f7df1e) |
