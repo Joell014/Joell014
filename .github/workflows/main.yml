@@ -32,10 +32,10 @@ jobs:
       - name: Collect All SVG Files
         run: |
           mkdir -p dist
-          cp profile-3d-contrib/*.svg dist/
+          find . -maxdepth 2 -name "*.svg" -exec cp {} dist/ \;
 
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
