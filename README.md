@@ -117,7 +117,7 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 
 <!-- ===================== SNAKE ===================== -->
 
-## 🐍 Ular Pemakan Kontribusi
+## Snake
 
 <div align="center">
   <picture>
@@ -129,7 +129,7 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 
 <!-- ===================== 3D CONTRIB ===================== -->
 
-## 🏙️ Grafik Kontribusi 3D
+## Grafik Kontribusi
 
 <div align="center">
   <picture>
