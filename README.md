@@ -41,7 +41,7 @@ const Pengguna = {
 
 <!-- ===================== SKILL ===================== -->
 
-## 🛠️ Skill & Teknologi
+## Skills & Technology
 
 <div align="center">
 
@@ -49,7 +49,7 @@ const Pengguna = {
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="learning" />
 
-**✅ Sudah dikuasai**
+**Already mastered**
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -60,7 +60,7 @@ const Pengguna = {
 
 </div>
 
-### 📚 Progres Belajar
+### Learning Progress
 
 | Skill              | Level                                                                 |
 | :----------------- | :-------------------------------------------------------------------- |
@@ -72,7 +72,7 @@ const Pengguna = {
 
 <!-- ===================== PROYEK ===================== -->
 
-## 🚀 Proyek Pilihan
+## my project
 
 ### 📚 Perpustakaan Digital
 
@@ -99,7 +99,7 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 
 <!-- ===================== STATISTIK ===================== -->
 
-## 📈 Statistik GitHub
+## 📈 GitHub Statistics
 
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joell014&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -129,7 +129,7 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 
 <!-- ===================== 3D CONTRIB ===================== -->
 
-## Grafik Kontribusi
+## Contribution Graph
 
 <div align="center">
   <picture>
@@ -141,7 +141,7 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 
 <!-- ===================== LAYANAN ===================== -->
 
-## 🤝 Bisa Saya Bantu
+## What can I do for you
 
 - 📊 Merapikan & mengolah data di **Excel** (rumus, tabel pivot, laporan)
 - 📝 Menyusun & memformat dokumen **Word** (laporan, surat, proposal)
@@ -156,7 +156,7 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 
 <!-- ===================== KONTAK ===================== -->
 
-## 📫 Mari Terhubung
+## contact person
 
 <div align="center">
 
