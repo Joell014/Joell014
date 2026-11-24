@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/github/followers/Joell014?label=Followers&style=for-the-badge&logo=github&color=8e44ad" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Joell014?label=Stars&style=for-the-badge&logo=github&color=f1c40f" alt="Stars" />
-<img src="https://img.shields.io/badge/Jangan-Terus-lupa-Beljar%20Semangat-2ecc71?style=for-the-badge&logo=target&logoColor=white" alt="Repos" />
+<img src="https://img.shields.io/badge/Belajar%20Semangat-2ecc71?style=for-the-badge&logo=target&logoColor=white" alt="Repos" />
 
 </div>
 
