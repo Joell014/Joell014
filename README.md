@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/Joell014?label=Followers&style=for-the-badge&logo=github&color=8e44ad" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Joell014?label=Stars&style=for-the-badge&logo=github&color=f1c40f" alt="Stars" />
-<img src="https://img.shields.io/badge/Belajar%20Semangat-2ecc71?style=for-the-badge&logo=target&logoColor=white" alt="Repos" />
+[![Pengikut](https://img.shields.io/github/followers/Joell014?label=Pengikut&amp;style=for-the-badge&amp;logo=github&amp;color=8e44ad)](https://github.com/Joell014?tab=followers)
+[![Repositori](https://img.shields.io/github/repos/Joell014?label=Repositori&amp;style=for-the-badge&amp;logo=github&amp;color=f1c40f)](https://github.com/Joell014?tab=repositories)
+[![Belajar Semangat](https://img.shields.io/badge/Belajar-Semangat-2ecc71?style=for-the-badge&amp;logo=target&amp;logoColor=white)](https://github.com/Joell014)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <!-- ===================== TENTANG ===================== -->
 
-## 👨‍💻 Tentang Saya
+## about me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding.gif" alt="coding" />
 
