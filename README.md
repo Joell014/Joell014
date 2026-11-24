@@ -12,7 +12,7 @@
 <br/><br/>
 
 [![Pengikut](https://img.shields.io/github/followers/Joell014?label=Pengikut&amp;style=for-the-badge&amp;logo=github&amp;color=8e44ad)](https://github.com/Joell014?tab=followers)
-[![Repositori](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJoell014&amp;query=%24.public_repos&amp;suffix=%20Repos&amp;label=Repositori&amp;style=for-the-badge&amp;logo=github&amp;color=2b579a)](https://github.com/Joell014?tab=repositories)
+[![Repositori](https://img.shields.io/badge/Repositori-14-2b579a?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Joell014?tab=repositories)
 [![Belajar Semangat](https://img.shields.io/badge/Belajar-Semangat-2ecc71?style=for-the-badge&amp;logo=target&amp;logoColor=white)](https://github.com/Joell014)
 
 </div>
