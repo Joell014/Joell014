@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-[![Pengikut](https://img.shields.io/github/followers/Joell014?label=Pengikut&amp;style=for-the-badge&amp;logo=github&amp;color=8e44ad)](https://github.com/Joell014?tab=followers)
-[![Repositori](https://img.shields.io/badge/Repositori-14-2b579a?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Joell014?tab=repositories)
-[![Belajar Semangat](https://img.shields.io/badge/Belajar-Semangat-2ecc71?style=for-the-badge&amp;logo=target&amp;logoColor=white)](https://github.com/Joell014)
+[![Pengikut](https://img.shields.io/github/followers/Joell014?label=Pengikut&style=for-the-badge&logo=github&color=8e44ad)](https://github.com/Joell014?tab=followers)
+[![Repositori](https://img.shields.io/badge/Repositori-14-2b579a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joell014?tab=repositories)
+[![Belajar Semangat](https://img.shields.io/badge/Belajar-Semangat-2ecc71?style=for-the-badge&logo=target&logoColor=white)](https://github.com/Joell014)
 
 </div>
 
