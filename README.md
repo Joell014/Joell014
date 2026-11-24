@@ -6,14 +6,14 @@
 <h1>Juliansah Khoirul Umam</h1>
 
 <a href="https://github.com/Joell014">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F7B731&center=true&vCenter=true&random=false&width=700&height=60&lines=Hai%2C+selamat+datang+di+profil+saya+%F0%9F%91%8B;Pembelajar+yang+haus+ilmu+coding+%F0%9F%9A%80;Jago+olah+data+di+Excel+%26+dokumen+di+Word+%F0%9F%93%8A;Sedang+membangun+skill+Python+%7C+JS+%7C+Web+%F0%9F%92%BB;Belajar+satu+baris+kode+setiap+hari+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F7B731&center=true&vCenter=true&random=false&width=700&height=60&lines=Hai%2C+selamat+datang+di+profil+saya+%F0%9F%91%8B;Pembelajar+yang+haus+ilmu+coding+%F0%9F%9A%80;Jago+olah+data+di+Excel+%26+dokumen+di+Word+%F0%9F%93%8A;Sedang+membangun+skill+Python+%7C+JS+%7C+Web+%F0%9F%92%BB;Belajar+satu+baris+kode+setiap+Waktu+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/Joell014?label=Followers&style=for-the-badge&logo=github&color=8e44ad" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Joell014?label=Stars&style=for-the-badge&logo=github&color=f1c40f" alt="Stars" />
-<img src="https://img.shields.io/badge/Belajar-Tiap%20Hari-2ecc71?style=for-the-badge&logo=target&logoColor=white" alt="Repos" />
+<img src="https://img.shields.io/badge/Jangan-Terus-lupa-Beljar%20Semangat-2ecc71?style=for-the-badge&logo=target&logoColor=white" alt="Repos" />
 
 </div>
 
