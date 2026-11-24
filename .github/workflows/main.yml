@@ -27,7 +27,7 @@ jobs:
             output_files/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -37,7 +37,7 @@ jobs:
           mkdir -p output_files
           cp profile-3d-contrib/*.svg output_files/ || true
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@://github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout --orphan output
           git rm -rf .
           cp output_files/*.svg .

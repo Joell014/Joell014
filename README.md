@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="./logo.png" width="150" height="150" style="border-radius: 50%;" alt="Logo Juliansah" />
+<img src="./logo.png" width="150" height="150" alt="Logo Juliansah" />
 
 <h1>Juliansah Khoirul Umam</h1>
 
@@ -99,7 +99,6 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 
 <!-- ===================== STATISTIK ===================== -->
 
-
 ## 📈 Statistik GitHub
 
 <div align="center">
@@ -117,24 +116,26 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 </div>
 
 <!-- ===================== SNAKE ===================== -->
+
 ## 🐍 Ular Pemakan Kontribusi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-    <img alt="Snake animation" src="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joell014/Joell014/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joell014/Joell014/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Joell014/Joell014/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <!-- ===================== 3D CONTRIB ===================== -->
+
 ## 🏙️ Grafik Kontribusi 3D
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-    <img alt="3D Contribution Graph" src="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joell014/Joell014/output/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joell014/Joell014/output/profile-green-animate.svg" />
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Joell014/Joell014/output/profile-green-animate.svg" />
   </picture>
 </div>
 
@@ -159,13 +160,12 @@ Sistem informasi koleksi buku berbasis web, lengkap dengan halaman **daftar buku
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jku8765@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joell014)
 
 <br/>
 
-<i>"Only a habit can change everything in this world"</i> 
+<i>"Only a habit can change everything in this world"</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer" width="100%" alt="footer" />
 
